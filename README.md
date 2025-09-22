@@ -117,7 +117,7 @@
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjula2001&show_icons=true&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&icon_color=00D4AA&border_color=30363D&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=Anjula2001
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaleeAmarakoon
 &theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&icon_color=00D4AA&border_color=30363D&border_radius=10&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" alt="Streak Stats"/>
 
 </div>
