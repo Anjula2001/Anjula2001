@@ -125,4 +125,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjula2001&layout=compact&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&border_color=30363D&border_radius=10&langs_count=8" alt="Top Languages"/>
 </div>
 
+
+---
+
+<div align="center">
+
+### **💫 Thanks for visiting! Let's build something amazing together 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=Anjula2001&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
 	
