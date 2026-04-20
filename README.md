@@ -32,7 +32,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Let's+connect+and+build+something+great;Open+to+collaboration+and+projects;AI+%7C+Full-Stack+%7C+Hardware" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=1000&color=%23C8BE25&center=true&vCenter=true&width=435&lines=Let's+connect+and+build+something+great;Open+to+collaboration+and+projects;AI+%7C+Full-Stack+%7C+Hardware" />
 </p>
 
 <p align="center">
