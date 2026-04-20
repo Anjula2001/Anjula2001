@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<h2>My Skills</h2>
+<h2> 🛠️My Skills</h2>
 
 <div align="center">
 
