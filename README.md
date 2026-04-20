@@ -16,8 +16,8 @@
 - :nerd_face: Always `learning new things`.
 <br>
 
-<h2 align="center">
-  📫 Connect with Me
+<h2>
+  ## 📫 Connect with Me
 </h2>
 
 <p align="center">
