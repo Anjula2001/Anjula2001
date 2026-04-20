@@ -4,17 +4,15 @@
 </p>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<h2 align="center">👨‍💻 About Me</h2>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<p align="center">
+  Undergraduate at University of Moratuwa • Full-Stack Developer • AI/ML Enthusiast • Hardware Builder
+</p>
 
-<br><br>
-
-- :school: I am a `Undergraduate` at [Faculty of Information Technology](https://uom.lk/itfac) at [University of Moratuwa](https://uom.lk).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Information Technology`.
-- :nerd_face: Always `learning new things`.
-<br>
+- 🔭 Working on real-time and hardware-integrated systems  
+- 🤖 Exploring AI/ML and intelligent applications  
+- ⚡ Passionate about turning ideas into scalable solutions  
 
 <h2>
    📫 Connect with Me
