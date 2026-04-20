@@ -48,13 +48,13 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,threejs,vite" />
 
 ### **Backend & APIs**
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" />
 
 ### **Databases**
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vercel,supabase,postman,figma,vscode,ubuntu,wordpress" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,supabase,postman,figma,vscode,ubuntu,wordpress,photoshop,apple" />
 
 </div>
 
