@@ -39,7 +39,7 @@
 
 <h2>🛠️ My Skills</h2>
 
-div align="center">
+<div align="center">
 
 ### **Programming Languages**
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,php" />
