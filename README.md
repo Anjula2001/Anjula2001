@@ -16,7 +16,13 @@
 - :nerd_face: Always `learning new things`.
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<h2 align="center">
+  📫 Connect with Me
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Let's+connect+and+build+something+great;Open+to+collaboration+and+projects;AI+%7C+Full-Stack+%7C+Hardware" />
+</p>
 
 <p align="center">
   <a href="mailto:anjulaamarakoon@gmail.com">
