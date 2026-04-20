@@ -7,12 +7,20 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Undergraduate at University of Moratuwa • Full-Stack Developer • AI/ML Enthusiast • Hardware Builder
+  Passionate about building real-world systems that connect software, AI, and hardware.
 </p>
 
-- 🔭 Working on real-time and hardware-integrated systems  
-- 🤖 Exploring AI/ML and intelligent applications  
-- ⚡ Passionate about turning ideas into scalable solutions  
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"/>
+
+- 🎓 Undergraduate at **University of Moratuwa (IT Faculty)**
+- 💡 Full-Stack Developer with a focus on **real-time applications**
+- 🤖 Aspiring **AI/ML Engineer**
+- 🔌 Building **hardware-integrated systems** (Automated Chess Board ♟️)
+- ⚡ Experienced with **Web + Backend + Embedded integration**
+- 📚 Currently exploring **Machine Learning & System Design**
+- 🚀 Always building, learning, and improving
+
+<br>
 
 <h2>
    📫 Connect with Me
