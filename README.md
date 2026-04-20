@@ -3,23 +3,29 @@
   <a href="https://github.com/Anjula2001"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate+🎓;AI/MLer+🤖;UX/UI+Designer+🎨"></a>
 </p>
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45px"></picture> About me
+
+<br>
 
 <p align="center">
   Passionate about building real-world systems that connect software, AI, and hardware.
 </p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-- 🎓 Undergraduate at **University of Moratuwa (IT Faculty)**
-- 💡 Full-Stack Developer with a focus on **real-time applications**
-- 🤖 Aspiring **AI/ML Engineer**
-- 🔌 Building **hardware-integrated systems**
-- ⚡ Experienced with **Web + Backend + Embedded integration**
-- 📚 Currently exploring **Machine Learning & System Design**
-- 🚀 Always building, learning, and improving
-
 <br>
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px" style="margin-left:20px;" />
+
+<ul>
+  <li>🎓 Undergraduate at <b>University of Moratuwa (IT Faculty)</b></li>
+  <li>💡 Full-Stack Developer with a focus on <b>real-time applications</b></li>
+  <li>🤖 Aspiring <b>AI/ML Engineer</b></li>
+  <li>🔌 Building <b>hardware-integrated systems</b></li>
+  <li>⚡ Experienced with <b>Web + Backend + Embedded integration</b></li>
+  <li>📚 Currently exploring <b>Machine Learning & System Design</b></li>
+  <li>🚀 Always building, learning, and improving</li>
+</ul>
+
+<br clear="both"/>
 
 <h2>
    📫 Connect with Me
