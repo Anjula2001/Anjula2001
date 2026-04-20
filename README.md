@@ -12,13 +12,13 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"/>
 
-- 🎓 Undergraduate at **University of Moratuwa (IT Faculty)**
-- 💡 Full-Stack Developer with a focus on **real-time applications**
-- 🤖 Aspiring **AI/ML Engineer**
-- 🔌 Building **hardware-integrated systems** (Automated Chess Board ♟️)
-- ⚡ Experienced with **Web + Backend + Embedded integration**
-- 📚 Currently exploring **Machine Learning & System Design**
-- 🚀 Always building, learning, and improving
+- Undergraduate at **University of Moratuwa (IT Faculty)**
+- Full-Stack Developer with a focus on **real-time applications**
+- Aspiring **AI/ML Engineer**
+- Building **hardware-integrated systems**
+- Experienced with **Web + Backend + Embedded integration**
+- Currently exploring **Machine Learning & System Design**
+- Always building, learning, and improving
 
 <br>
 
