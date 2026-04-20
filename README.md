@@ -4,7 +4,7 @@
 </p>
 
 	
-<h2>👨‍💻 About Me</h2>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <p align="center">
   Passionate about building real-world systems that connect software, AI, and hardware.
