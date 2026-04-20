@@ -4,7 +4,7 @@
 </p>
 
 	
-<h2>About Me</h2>
+<h2>👨‍💻 About Me</h2>
 
 <p align="center">
   Passionate about building real-world systems that connect software, AI, and hardware.
