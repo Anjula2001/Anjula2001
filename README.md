@@ -4,7 +4,7 @@
 </p>
 
 	
-<h2 align="center">About Me</h2>
+<h2>About Me</h2>
 
 <p align="center">
   Passionate about building real-world systems that connect software, AI, and hardware.
@@ -15,7 +15,7 @@
 - 🎓 Undergraduate at **University of Moratuwa (IT Faculty)**
 - 💡 Full-Stack Developer with a focus on **real-time applications**
 - 🤖 Aspiring **AI/ML Engineer**
-- 🔌 Building **hardware-integrated systems** (Automated Chess Board ♟️)
+- 🔌 Building **hardware-integrated systems**
 - ⚡ Experienced with **Web + Backend + Embedded integration**
 - 📚 Currently exploring **Machine Learning & System Design**
 - 🚀 Always building, learning, and improving
