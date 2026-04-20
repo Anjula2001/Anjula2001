@@ -21,19 +21,19 @@
 
 <p align="center">
   <a href="mailto:anjulaamarakoon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://github.com/Anjula2001">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
   <a href="https://wa.me/94771950486">
-    <img src="https://img.shields.io/badge/WhatsApp-ffffff?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
   <a href="https://www.linkedin.com/in/anjulaaamarakoon">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://www.facebook.com/anjulap.amarakoon">
-    <img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+    <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" />
   </a>
 </p>
 
