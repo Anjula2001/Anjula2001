@@ -42,7 +42,7 @@
 <div align="center">
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,php" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,php,c++" />
 
 ### **Frontend Development**
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,threejs,vite" />
