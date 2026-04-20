@@ -45,16 +45,16 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,php" />
 
 ### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,threejs,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vite" />
 
 ### **Backend & APIs**
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
 ### **Databases**
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vercel,supabase,postman,figma,vscode,ubuntu,wordpress,photoshop,apple" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,ubuntu,wordpress,photoshop,apple,arduino" />
 
 </div>
 
