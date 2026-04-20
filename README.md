@@ -17,25 +17,23 @@
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<h3 align="center">Connect with me</h3>
-
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:anjulaamarakoon@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://github.com/Anjula2001">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000" />
   </a>
   <a href="https://wa.me/94771950486">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
+    <img src="https://img.shields.io/badge/WhatsApp-ffffff?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
   <a href="https://www.linkedin.com/in/anjulaaamarakoon">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://www.facebook.com/anjulap.amarakoon">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+    <img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=1877F2" />
   </a>
 </p>
 
