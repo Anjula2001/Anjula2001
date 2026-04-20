@@ -38,6 +38,7 @@
 </p>
 
 <h2> 🛠️My Skills</h2>
+<p align="center">Full-Stack Developer | AI/ML Enthusiast | Hardware Innovator</p>
 
 <div align="center">
 
