@@ -87,7 +87,7 @@
 
 <div align="center">
 
-### ** Thanks for visiting! Let's build something amazing together **
+### < Thanks for visiting! Let's build something amazing together />
 
 <img src="https://komarev.com/ghpvc/?username=Anjula2001&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
 
