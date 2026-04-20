@@ -37,29 +37,29 @@
   </a>
 </p>
 
-<h2 align="center">🛠️ My Skills</h2>
+<h2>My Skills</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php" />
 
-### 🌐 Frontend Development
+### Frontend Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vite" />
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
-### 🗄️ Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
-### 🤖 AI & Machine Learning (Learning)
+### AI & Machine Learning (Learning)
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-### 🔌 Hardware & Embedded
+### Hardware & Embedded
 <img src="https://skillicons.dev/icons?i=arduino" />
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,ubuntu,wordpress,photoshop,apple,docker" />
 
 </div>
