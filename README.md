@@ -10,8 +10,7 @@
   Passionate about building real-world systems that connect software, AI, and hardware.
 </p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"/>
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - 🎓 Undergraduate at **University of Moratuwa (IT Faculty)**
 - 💡 Full-Stack Developer with a focus on **real-time applications**
 - 🤖 Aspiring **AI/ML Engineer**
