@@ -9,8 +9,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-0D1117?style=flat-square&logo=googlemaps&logoColor=00D4AA&labelColor=0D1117" alt="Location" />
   <img src="https://custom-icon-badges.demolab.com/badge/Open%20to-Collaboration-0D1117?style=flat-square&logo=people&logoColor=6366F1&labelColor=0D1117" alt="Open to collaboration" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Anjula2001&label=Profile%20Views&color=00D4AA&style=flat-square" alt="Profile Views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
@@ -111,6 +109,8 @@
 
 <div align="center">
   <b>&lt; Thanks for visiting — let's build something amazing together &gt;</b>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Anjula2001&label=Profile%20Views&color=00D4AA&style=flat-square" alt="Profile Views" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:1FA9B8,100:00D4AA&height=140&section=footer&animation=fadeIn" alt="footer" />
