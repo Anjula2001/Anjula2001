@@ -24,6 +24,7 @@
 
 > Passionate about building **real-world systems** that connect software, AI, and hardware.
 
+<br>
 - &nbsp;Undergraduate at **University of Moratuwa** — Faculty of IT
 - &nbsp;Full-Stack Developer focused on **real-time applications**
 - &nbsp;Aspiring **AI / ML Engineer**
@@ -34,7 +35,7 @@
 
 <br clear="right" />
 
-## 🛠️ &nbsp;Tech Stack
+## 🤞 &nbsp;Tech Stack
 
 <div align="center">
 
@@ -75,7 +76,7 @@
 
 </div>
 
-## 📊 &nbsp;GitHub Analytics
+## 👋 &nbsp;GitHub Analytics
 
 <div align="center">
 
