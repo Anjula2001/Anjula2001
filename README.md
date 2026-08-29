@@ -88,16 +88,20 @@
 
 <br />
 
-<img width="72%" src="https://streak-stats.demolab.com?user=Anjula2001&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=00D4AA&fire=6366F1&currStreakLabel=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+<img width="68%" src="https://streak-stats.demolab.com?user=Anjula2001&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=00D4AA&fire=6366F1&currStreakLabel=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
 <br />
 <br />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjula2001&theme=gotham" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjula2001&theme=gotham" alt="Top languages by repo" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjula2001&theme=gotham" alt="Stats" />
+&nbsp;
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjula2001&theme=gotham" alt="Top languages by repo" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjula2001&theme=gotham" alt="Top languages by commit" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anjula2001&theme=gotham&utcOffset=5.5" alt="Productive time" />
+<br />
+
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjula2001&theme=gotham" alt="Top languages by commit" />
+&nbsp;
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anjula2001&theme=gotham&utcOffset=5.5" alt="Productive time" />
 
 </div>
 
