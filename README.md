@@ -84,16 +84,25 @@
 
 <br> 
 
-## 📊 **GitHub Analytics** <div align="center"> 
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjula2001&theme=github_dark" />
-
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjula2001&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&icon_color=00D4AA&border_color=30363D&border_radius=10&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" alt="Streak Stats"/> </div>
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjula2001&theme=github_dark" />
+<table>
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjula2001&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjula2001&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&icon_color=00D4AA&border_color=30363D" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjula2001&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
