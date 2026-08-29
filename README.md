@@ -83,8 +83,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Anjula2001?tab=followers"><img src="https://img.shields.io/github/followers/Anjula2001?style=for-the-badge&logo=github&logoColor=00D4AA&label=Followers&labelColor=0D1117&color=161B22" alt="Followers" /></a>
-<a href="https://github.com/Anjula2001?tab=repositories"><img src="https://img.shields.io/github/stars/Anjula2001?affiliations=OWNER&style=for-the-badge&logo=star&logoColor=6366F1&label=Stars&labelColor=0D1117&color=161B22" alt="Stars" /></a>
+<a href="https://github.com/Anjula2001?tab=followers"><img src="https://img.shields.io/github/followers/Anjula2001?style=for-the-badge&logo=github&logoColor=00D4AA&label=Followers&labelColor=0D1117&color=161B22"/>
+
+<img src="https://komarev.com/ghpvc/?username=Anjula2001&label=Profile%20Views&color=00D4AA&style=flat-square" alt="Profile Views" />
 
 <br />
 
