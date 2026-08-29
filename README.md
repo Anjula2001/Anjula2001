@@ -48,6 +48,10 @@
     <td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vite&perline=7" alt="Frontend" /></td>
   </tr>
   <tr>
+    <td align="center"><b> &nbsp;Mobile</b></td>
+    <td align="left"><img height="48" src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native" /> &nbsp;<img height="48" src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF&labelColor=0D1117" alt="Expo" /></td>
+  </tr>
+  <tr>
     <td align="center"><b> &nbsp;Backend &amp; APIs</b></td>
     <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman&perline=7" alt="Backend" /></td>
   </tr>
@@ -57,7 +61,7 @@
   </tr>
   <tr>
     <td align="center"><b> &nbsp;AI / ML</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=7" alt="AI/ML" /></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=python" alt="Python" /> &nbsp;<img height="48" src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71&labelColor=0D1117" alt="n8n" /></td>
   </tr>
   <tr>
     <td align="center"><b> &nbsp;Hardware</b></td>
@@ -65,7 +69,7 @@
   </tr>
   <tr>
     <td align="center"><b> &nbsp;Tools</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,wordpress&perline=7" alt="Tools" /></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vscode,wordpress&perline=7" alt="Tools" /></td>
   </tr>
   <tr>
     <td align="center"><b> &nbsp;Systems</b></td>
