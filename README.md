@@ -24,7 +24,6 @@
 
 > Passionate about building **real-world systems** that connect software, AI, and hardware.
 
-<br>
 - &nbsp;Undergraduate at **University of Moratuwa** — Faculty of IT
 - &nbsp;Full-Stack Developer focused on **real-time applications**
 - &nbsp;Aspiring **AI / ML Engineer**
