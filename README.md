@@ -34,8 +34,6 @@
 
 <br clear="right" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
-
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
@@ -77,8 +75,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
-
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
@@ -98,8 +94,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
-
 ## 🤝 &nbsp;Let's Connect
 
 <div align="center">
@@ -115,8 +109,6 @@
   <a href="https://github.com/Anjula2001"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.facebook.com/anjulap.amarakoon" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
 
 <div align="center">
   <b>&lt; Thanks for visiting — let's build something amazing together &gt;</b>
