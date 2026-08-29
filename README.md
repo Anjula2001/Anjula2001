@@ -69,15 +69,22 @@
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<br/>
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=database&logoColor=00D4AA" />
 
 ### AI & Machine Learning (Learning)
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<br/>
+<img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
 
 ### Hardware & Embedded
 <img src="https://skillicons.dev/icons?i=arduino" />
 
+### Operating Systems
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" />
+
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,ubuntu,wordpress,photoshop,apple,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,wordpress,photoshop,apple,docker" />
 
 </div>
 
