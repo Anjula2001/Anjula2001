@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td align="center"><b> &nbsp;Mobile</b></td>
-    <td align="left"><img height="48" src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native" /> &nbsp;<img height="48" src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF&labelColor=0D1117" alt="Expo" /></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo" alt="Mobile" /></td>
   </tr>
   <tr>
     <td align="center"><b> &nbsp;Backend &amp; APIs</b></td>
@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td align="center"><b> &nbsp;AI / ML</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=python" alt="Python" /> &nbsp;<img height="48" src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71&labelColor=0D1117" alt="n8n" /></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=python,n8n" alt="AI/ML" /></td>
   </tr>
   <tr>
     <td align="center"><b> &nbsp;Hardware</b></td>
