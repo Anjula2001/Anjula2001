@@ -95,13 +95,7 @@
 
 <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjula2001&theme=gotham" alt="Stats" />
 &nbsp;
-<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjula2001&theme=gotham" alt="Top languages by repo" />
-
-<br />
-
 <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjula2001&theme=gotham" alt="Top languages by commit" />
-&nbsp;
-<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anjula2001&theme=gotham&utcOffset=5.5" alt="Productive time" />
 
 </div>
 
