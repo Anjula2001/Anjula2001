@@ -9,6 +9,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-0D1117?style=flat-square&logo=googlemaps&logoColor=00D4AA&labelColor=0D1117" alt="Location" />
 
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="60px" />
+
   <img src="https://custom-icon-badges.demolab.com/badge/Open%20to-Collaboration-0D1117?style=flat-square&logo=people&logoColor=6366F1&labelColor=0D1117" alt="Open to collaboration" />
 </div>
 
