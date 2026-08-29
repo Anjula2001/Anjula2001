@@ -100,19 +100,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
 
-## 🐍 &nbsp;Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Anjula2001/Anjula2001/output/snake.svg" alt="Contribution snake animation" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
-
 ## 🤝 &nbsp;Let's Connect
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=50&lines=Let's+connect+and+build+something+great;Open+to+collaboration+and+projects;AI+%7C+Full-Stack+%7C+Hardware" alt="Connect" />
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anjulaaamarakoon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4%3D&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn" /></a>
@@ -122,12 +116,14 @@
   <a href="https://www.facebook.com/anjulap.amarakoon" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0D1117" alt="Facebook" /></a>
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
+
+## 🤝 &nbsp;
+
+<br>
 
 <div align="center">
   <b>&lt; Thanks for visiting — let's build something amazing together &gt;</b>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Anjula2001&label=Profile%20Views&color=00D4AA&style=flat-square" alt="Profile Views" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:1FA9B8,100:00D4AA&height=140&section=footer&animation=fadeIn" alt="footer" />
