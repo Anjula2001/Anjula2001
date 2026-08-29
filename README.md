@@ -11,7 +11,7 @@
 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="60px" />
 
-  <img src="https://custom-icon-badges.demolab.com/badge/Open%20to-Collaboration-0D1117?style=flat-square&logo=people&logoColor=6366F1&labelColor=0D1117" alt="Open to collaboration" />
+  <img alt="Open to collaboration" src="https://custom-icon-badges.demolab.com/badge/Open%20to-Collaboration-0D1117?style=flat-square&logo=people&logoColor=6366F1&labelColor=0D1117" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
