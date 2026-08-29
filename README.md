@@ -8,24 +8,25 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-0D1117?style=flat-square&logo=googlemaps&logoColor=00D4AA&labelColor=0D1117" alt="Location" />
+  
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="38px" /> &nbsp;About Me
+
   <img src="https://custom-icon-badges.demolab.com/badge/Open%20to-Collaboration-0D1117?style=flat-square&logo=people&logoColor=6366F1&labelColor=0D1117" alt="Open to collaboration" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="38px" /> &nbsp;About Me
-
 <img align="right" width="330" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Coding" />
 
 > Passionate about building **real-world systems** that connect software, AI, and hardware.
 
-- 🎓 &nbsp;Undergraduate at **University of Moratuwa** — Faculty of IT
-- 💡 &nbsp;Full-Stack Developer focused on **real-time applications**
-- 🤖 &nbsp;Aspiring **AI / ML Engineer**
-- 🔌 &nbsp;Building **hardware-integrated systems**
-- ⚡ &nbsp;Experienced in **Web + Backend + Embedded** integration
-- 📚 &nbsp;Currently exploring **Machine Learning** & **System Design**
-- 🚀 &nbsp;Always building, learning, and improving
+- &nbsp;Undergraduate at **University of Moratuwa** — Faculty of IT
+- &nbsp;Full-Stack Developer focused on **real-time applications**
+- &nbsp;Aspiring **AI / ML Engineer**
+- &nbsp;Building **hardware-integrated systems**
+- &nbsp;Experienced in **Web + Backend + Embedded** integration
+- &nbsp;Currently exploring **Machine Learning** & **System Design**
+- &nbsp;Always building, learning, and improving
 
 <br clear="right" />
 
@@ -35,19 +36,19 @@
 
 <div align="center">
 
-**🧠 &nbsp; Languages**
+** &nbsp; Languages**
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php&perline=7" alt="Languages" />
 
-**🎨 &nbsp; Frontend**
+** &nbsp; Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vite&perline=7" alt="Frontend" />
 
-**⚙️ &nbsp; Backend &amp; Databases**
+** &nbsp; Backend &amp; Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,mongodb,mysql,postgres&perline=7" alt="Backend and Databases" />
 
-**🤖 &nbsp; AI / ML &amp; Hardware**
+** &nbsp; AI / ML &amp; Hardware**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,arduino,raspberrypi&perline=7" alt="AI ML and Hardware" />
 
