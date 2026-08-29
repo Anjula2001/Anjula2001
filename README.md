@@ -11,7 +11,7 @@
 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="60px" />
 
-  <img alt="Open to collaboration" src="https://img.shields.io/badge/Open%20to-Collaboration%20%F0%9F%A4%9D-0D1117?style=flat-square&labelColor=0D1117" />
+  <img alt="Open to collaboration" src="https://custom-icon-badges.demolab.com/badge/Open%20to-Collaboration-0D1117?style=flat-square&logo=people&logoColor=00D4AA&labelColor=0D1117" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
@@ -111,7 +111,7 @@
 </div>
 <br>
 <div align="center">
-  <sub><b>&lt; Thanks for visiting — let's build something amazing together &gt;</b></sub>
+  <sub><b>&lt;/ Thanks for visiting — let's build something amazing together &gt;</b></sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:1FA9B8,100:00D4AA&height=140&section=footer&animation=fadeIn" alt="footer" />
