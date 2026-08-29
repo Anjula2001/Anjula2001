@@ -110,8 +110,8 @@
   <a href="https://www.facebook.com/anjulap.amarakoon" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </div>
 <br>
-<div align="center" style="width: 50%;">
-  <b>&lt; Thanks for visiting — let's build something amazing together &gt;</b>
+<div align="center">
+  <small><b>&lt; Thanks for visiting — let's build something amazing together &gt;</b></small>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:1FA9B8,100:00D4AA&height=140&section=footer&animation=fadeIn" alt="footer" />
