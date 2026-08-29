@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="38px" /> &nbsp;About Me
+## ✌️ &nbsp;About Me
 
 <img align="right" width="330" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Coding" />
 
@@ -38,23 +38,23 @@
 
 <div align="center">
 
-** &nbsp; Languages**
+<b>&nbsp; Languages</b>
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php&perline=7" alt="Languages" />
 
-** &nbsp; Frontend**
+<b>&nbsp; Frontend</b>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vite&perline=7" alt="Frontend" />
 
-** &nbsp; Backend &amp; Databases**
+<b>&nbsp; Backend &amp; Databases</b>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,mongodb,mysql,postgres&perline=7" alt="Backend and Databases" />
 
-** &nbsp; AI / ML &amp; Hardware**
+<b>&nbsp; AI / ML &amp; Hardware</b>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,arduino,raspberrypi&perline=7" alt="AI ML and Hardware" />
 
-**🧰 &nbsp; Tools &amp; Systems**
+<b>&nbsp; Tools &amp; Systems</b>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,wordpress,linux,ubuntu,windows,apple&perline=10" alt="Tools and Systems" />
 
