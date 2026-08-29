@@ -40,25 +40,40 @@
 
 <div align="center">
 
-<b>&nbsp; Languages</b>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php&perline=7" alt="Languages" />
-
-<b>&nbsp; Frontend</b>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vite&perline=7" alt="Frontend" />
-
-<b>&nbsp; Backend &amp; Databases</b>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,mongodb,mysql,postgres&perline=7" alt="Backend and Databases" />
-
-<b>&nbsp; AI / ML &amp; Hardware</b>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,arduino,raspberrypi&perline=7" alt="AI ML and Hardware" />
-
-<b>&nbsp; Tools &amp; Systems</b>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,wordpress,linux,ubuntu,windows,apple&perline=10" alt="Tools and Systems" />
+<table>
+  <tr>
+    <td align="right" width="210"><b>🧠 &nbsp;Languages</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php&perline=7" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🎨 &nbsp;Frontend</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vite&perline=7" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️ &nbsp;Backend &amp; APIs</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman&perline=7" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️ &nbsp;Databases</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=7" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🤖 &nbsp;AI / ML</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=7" alt="AI/ML" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🔌 &nbsp;Hardware</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=7" alt="Hardware" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🧰 &nbsp;Tools</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,wordpress&perline=7" alt="Tools" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>💻 &nbsp;Systems</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple&perline=7" alt="Systems" /></td>
+  </tr>
+</table>
 
 </div>
 
