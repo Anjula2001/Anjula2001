@@ -118,10 +118,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:6366F1&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
 
-## 🤝 &nbsp;
-
-<br>
-
 <div align="center">
   <b>&lt; Thanks for visiting — let's build something amazing together &gt;</b>
 </div>
