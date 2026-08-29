@@ -46,9 +46,9 @@
   <a href="https://wa.me/94771950486">
     <img src="https://img.shields.io/badge/WhatsApp-1f2937?style=flat&logo=whatsapp&logoColor=25D366" />
   </a>
-  <a href="https://www.linkedin.com/in/anjulaaamarakoon">
-    <img src="https://img.shields.io/badge/LinkedIn-1f2937?style=flat&logo=linkedin&logoColor=0A66C2" />
-  </a>
+  <a href="https://www.linkedin.com/in/anjulaaamarakoon" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="46" alt="LinkedIn" />
+</a>
   <a href="https://www.facebook.com/anjulap.amarakoon">
     <img src="https://img.shields.io/badge/Facebook-1f2937?style=flat&logo=facebook&logoColor=1877F2" />
   </a>
