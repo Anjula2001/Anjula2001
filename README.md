@@ -1,126 +1,93 @@
-<h1 align="center">Hi , I'm Anjula Amarakoon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/Anjula2001"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate+🎓;AI/MLer+🤖;UX/UI+Designer+🎨"></a>
-</p>
-
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45px"></picture> About me
-
-<br>
-
-<p align="center">
-  Passionate about building real-world systems that connect software, AI, and hardware.
-</p>
-
-<br>
-
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px" style="margin-left:20px;" />
-
-<ul>
-  <li>🎓 Undergraduate at <b>University of Moratuwa (IT Faculty)</b></li>
-  <li>💡 Full-Stack Developer with a focus on <b>real-time applications</b></li>
-  <li>🤖 Aspiring <b>AI/ML Engineer</b></li>
-  <li>🔌 Building <b>hardware-integrated systems</b></li>
-  <li>⚡ Experienced with <b>Web + Backend + Embedded integration</b></li>
-  <li>📚 Currently exploring <b>Machine Learning & System Design</b></li>
-  <li>🚀 Always building, learning, and improving</li>
-</ul>
-
-<br clear="both"/>
-
-<h2>
-   📫 Connect with Me
-</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=1000&color=%23C8BE25&center=true&vCenter=true&width=435&lines=Let's+connect+and+build+something+great;Open+to+collaboration+and+projects;AI+%7C+Full-Stack+%7C+Hardware" />
-</p>
-
-<p align="center">
-  <a href="mailto:anjulaamarakoon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://github.com/Anjula2001">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-  <a href="https://wa.me/94771950486">
-    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
-  </a>
-  <a href="https://www.linkedin.com/in/anjulaaamarakoon">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://www.facebook.com/anjulap.amarakoon">
-    <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" />
-  </a>
-</p>
-
-<h2> 🛠️My Skills</h2>
-<p align="center">Full-Stack Developer | AI/ML Enthusiast | Hardware Innovator</p>
-
 <div align="center">
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php" />
+# Hi there, I'm Anjula Amarakoon 👋
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vite" />
+<p>
+  IT Undergraduate • Full-Stack Developer • Aspiring AI/ML Engineer
+</p>
 
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-<br/>
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=database&logoColor=00D4AA" />
-
-### AI & Machine Learning (Learning)
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-<br/>
-<img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
-
-### Hardware & Embedded
-<img src="https://skillicons.dev/icons?i=arduino" />
-
-### Operating Systems
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,wordpress,photoshop,apple,docker" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Building+real-world+software+with+AI+%2B+hardware;Passionate+about+clean+products+and+practical+innovation" alt="Typing intro" />
+</p>
 
 </div>
 
+---
 
-<br> 
+## About Me
 
-## 📊 **GitHub Analytics**
+I’m an IT undergraduate at the **University of Moratuwa** who loves turning ideas into practical products.
+My main focus is building full-stack applications, exploring AI/ML, and integrating software with hardware for real-world impact.
+
+- 🎓 IT Faculty, University of Moratuwa
+- 💻 Full-Stack Developer (web + backend)
+- 🤖 Growing in AI/ML and intelligent systems
+- 🔌 Interested in hardware-connected solutions
+- 🚀 Always learning and building
+
+---
+
+## Skills
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php" alt="Languages" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,html,css" alt="Frontend" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres" alt="Backend and Databases" />
+</p>
+
+### AI/ML & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="AI and ML" />
+  <img src="https://img.shields.io/badge/n8n-Automation-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+</p>
+
+### Hardware, Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,postman,figma,vscode,docker,ubuntu,linux,windows,wordpress,photoshop,apple" alt="Tools and Platforms" />
+</p>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="mailto:anjulaamarakoon@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Anjula2001"><img src="https://img.shields.io/badge/GitHub-@Anjula2001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/anjulaaamarakoon"><img src="https://img.shields.io/badge/LinkedIn-Anjula%20Amarakoon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/94771950486"><img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.facebook.com/anjulap.amarakoon"><img src="https://img.shields.io/badge/Facebook-Anjula-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjula2001&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjula2001&theme=github_dark" alt="Top languages" />
+</div>
 
-<table>
-  <tr>
-    <td align="center">
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjula2001&theme=github_dark" />
-    </td>
-    <td align="center">
-		<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjula2001&theme=github_dark" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjula2001&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&icon_color=00D4AA&border_color=30363D" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjula2001&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&icon_color=00D4AA&border_color=30363D" alt="GitHub streak" />
 </div>
 
 ---
 
 <div align="center">
 
-### </ Thanks for visiting! Let's build something amazing together >
+### Thanks for visiting 🙌
+
+I’m always open to learning, collaboration, and building meaningful projects.
 
 <img src="https://komarev.com/ghpvc/?username=Anjula2001&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
 
 </div>
-
-	
