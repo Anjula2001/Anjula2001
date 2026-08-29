@@ -20,6 +20,8 @@
 
 <img align="right" width="330" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Coding" />
 
+<br>
+
 > Passionate about building **real-world systems** that connect software, AI, and hardware.
 
 - &nbsp;Undergraduate at **University of Moratuwa** — Faculty of IT
