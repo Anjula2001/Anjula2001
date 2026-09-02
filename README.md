@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td align="center"><b> &nbsp;AI / ML</b></td>
-    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=python,n8n" alt="AI/ML" /></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=python,n8n,jupyter" alt="AI/ML" /></td>
   </tr>
   <tr>
     <td align="center"><b> &nbsp;Hardware</b></td>
